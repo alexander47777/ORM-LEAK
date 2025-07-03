@@ -43,13 +43,18 @@ With the admin ID (1) identified, the next step was to confirm how `password__st
 
 ![image](https://github.com/user-attachments/assets/e7ae6940-f7c7-4a82-bb8c-8cbe5fd9045c)
 
+
 ![image](https://github.com/user-attachments/assets/760877c5-acbe-49b4-8aa6-4c667f94c4c4)
+
 This was the "false" condition: an empty JSON array `[]`.
+
+
 
 
 **Test Case 2: Correct Prefix (p)**
 
 ![image](https://github.com/user-attachments/assets/5d5f9ed9-e08b-4510-97d7-75f740d118a2)
+
 
 ![image](https://github.com/user-attachments/assets/369e08cf-4a04-4d4a-84f9-5d90fae74739)
 

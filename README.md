@@ -59,6 +59,8 @@ This was the "false" condition: an empty JSON array `[]`.
 ![image](https://github.com/user-attachments/assets/369e08cf-4a04-4d4a-84f9-5d90fae74739)
 
 
+This was the "true" condition: a non-empty JSON array containing the article(s) authored by the `admin` user.
+
 
 ### Result
 The script successfully extracted the admin user's hashed password
@@ -67,4 +69,3 @@ The script successfully extracted the admin user's hashed password
 
 
 
-This was the "true" condition: a non-empty JSON array containing the article(s) authored by the `admin` user.
